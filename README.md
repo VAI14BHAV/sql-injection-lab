@@ -4,6 +4,7 @@ This repository contains a step-by-step guide to set up a vulnerable web applica
 - Public IP: 54.88.52.121
 - Vulnerable app - http://54.88.52.121/sqli/login.php
 - Secured app - http://54.88.52.121/sqli/login2.php
+<img width="1658" height="814" alt="image" src="https://github.com/user-attachments/assets/a5e78261-4d70-41c6-823d-368eb7dd895b" />
 
 ---
 
