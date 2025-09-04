@@ -1,5 +1,9 @@
 # SQL Injection Lab with ModSecurity WAF on AWS EC2
 This repository contains a step-by-step guide to set up a vulnerable web application on AWS EC2, demonstrate SQL Injection exploitation, and then mitigate the attack using ModSecurity Web Application Firewall (WAF).
+### Important Details:
+- Public IP: 54.88.52.121
+- Vulnerable app - http://54.88.52.121/sqli/login.php
+- Secured app - http://54.88.52.121/sqli/login2.php
 
 ---
 
